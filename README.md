@@ -1,0 +1,1 @@
+![Design preview for the Superhero Search App using API](./Screenshot%20(22).png)
